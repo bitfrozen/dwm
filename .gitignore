@@ -1,3 +1,6 @@
+# Ignore main executable
+dwm
+
 # Object files
 *.o
 *.ko
